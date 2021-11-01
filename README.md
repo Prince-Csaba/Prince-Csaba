@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Csaba, frontend developer 👋
 
 <!--
 **Prince-Csaba/Prince-Csaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
