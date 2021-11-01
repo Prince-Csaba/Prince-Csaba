@@ -1,16 +1,16 @@
-### Hi there, I'm Csaba, frontend developer 👋
+### Hi there, I'm Csaba, junior frontend developer 👋
 
-<!--
-**Prince-Csaba/Prince-Csaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Some second line comment
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on final touches of [Völgylovarda website](https://prince-csaba.github.io/volgylovarda/index.html)
+- 🌱 I’m currently learning on repeating the basics of JavaScript, Next Js.
+  <!-- - 👯 I’m looking to collaborate on ... -->
+  <!-- - 🤔 I’m looking for help with ... -->
+  <!-- - 😄 Pronouns: ... -->
+- 💬 Ask me about the last book I read.
+- 📫 How to reach me: <bolyaicsaba@gmail.com>
+- ⚡ Fun fact: I started learning Spanish about a month ago.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+### Languages and Tools:
