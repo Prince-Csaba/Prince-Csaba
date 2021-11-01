@@ -41,7 +41,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="PrinceCsaba's GitHub Stats" src="https://github-readme-mystats.vercel.app
-/api?username=prince-csaba&show_icons=true&hide_border=true" />
+<img align="left" alt="PrinceCsaba's GitHub Stats" src="https://github-readme-stats-one-steel.vercel.app
+/api?username=PrinceCsaba&show_icons=true&hide_border=true" />
 
 </details>
