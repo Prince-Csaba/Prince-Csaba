@@ -38,12 +38,16 @@
 
 ### Statistics:
 
-[![Anurag's GitHub stats](https://github-readme-stats-one-steel.vercel.app/api?username=prince-csaba)](https://github.com/anuraghazra/github-readme-stats)
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="PrinceCsaba's GitHub Stats" src="https://github-readme-stats-one-steel.vercel.app
-/api?username=prince-csaba&show_icons=true&hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats-one-steel.vercel.app/api?username=prince-csaba)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+<details>
+  <summary>:zap: Top Languages</summary>
+
+[![Top Langs](https://github-readme-stats-one-steel.vercel.app/api/top-langs/?username=prince-csaba)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
