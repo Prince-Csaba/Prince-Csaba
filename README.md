@@ -1,6 +1,6 @@
 ## Hi there, I'm Csaba, junior frontend developer 👋
 
-## Some second line comment
+## I am passionate about learning and cutting-edge technologies.
 
 - 🔭 I’m currently working on final touches of [Völgylovarda website](https://prince-csaba.github.io/volgylovarda/index.html)
 - 🌱 I’m currently learning on repeating the basics of JavaScript, Next Js.
