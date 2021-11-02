@@ -2,10 +2,10 @@
 
 ## I am passionate about learning and cutting-edge technologies.
 
+- 🤔 I’m looking for a part time/full time Frontend developer job at Budapest.
 - 🔭 I’m currently working on final touches of [Völgylovarda website](https://prince-csaba.github.io/volgylovarda/index.html)
 - 🌱 I’m currently learning on repeating the basics of JavaScript, Next Js.
   <!-- - 👯 I’m looking to collaborate on ... -->
-  <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 😄 Pronouns: ... -->
 - 💬 Ask me about board game rules / the last book I read.
 - 📫 How to reach me: <bolyaicsaba@gmail.com>
