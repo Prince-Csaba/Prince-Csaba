@@ -4,12 +4,12 @@
 
 - 🤔 I’m looking for a part time/full time Frontend developer job at Budapest.
 - 🔭 I’m currently working on final touches of [Völgylovarda website](https://prince-csaba.github.io/volgylovarda/index.html)
-- 🌱 I’m currently learning on repeating the basics of JavaScript, Next Js.
+- 🌱 I’m currently learning on repeating the basics of JavaScript, Next.Js.
   <!-- - 👯 I’m looking to collaborate on ... -->
   <!-- - 😄 Pronouns: ... -->
 - 💬 Ask me about board game rules / the last book I read.
 - 📫 How to reach me: <bolyaicsaba@gmail.com>
-- ⚡ Fun fact: first thing i do at the morning is Codewars.
+- ⚡ Fun fact: first thing i do at the morning is reading a book.
 
 ### Connect with me:
 
