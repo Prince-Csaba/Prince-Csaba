@@ -9,7 +9,7 @@
   <!-- - 😄 Pronouns: ... -->
 - 💬 Ask me about board game rules / the last book I read.
 - 📫 How to reach me: <bolyaicsaba@gmail.com>
-- ⚡ Fun fact: first thing i do at the morning is reading a book.
+- ⚡ Fun fact: first thing i do at the morning is reading a book, or practice at [Exercism.org](https://exercism.org/profiles/Prince-Csaba)
 
 ### Connect with me:
 
