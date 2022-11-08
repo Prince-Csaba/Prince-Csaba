@@ -42,7 +42,8 @@ Visual Studio Code, HTML, CSS, SCSS, JavaScript, ReactJs, NodeJs, MongoDB, GitHu
   <summary>:zap: GitHub Stats</summary>
 
 [![Anurag's GitHub stats](https://github-readme-stats-one-steel.vercel.app/api?username=prince-csaba)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince-csaba)](https://github.com/anuraghazra/github-readme-stats)
+  
 </details>
 
 <details>
