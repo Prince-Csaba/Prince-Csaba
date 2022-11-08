@@ -3,7 +3,7 @@
 ## I am passionate about learning and cutting-edge technologies.
 
 - 🤔 I’m looking for a part time/full time Frontend developer job at Budapest.
-- 🔭 I’m currently working on final touches of [Sunrisefitness website](https://sunrisefitness.hu)
+- 🔭 I’m currently working on final touches of [Sunrisefitness website](https://sunrisefitness.hu){:target="_blank"}.
 - 🌱 I’m currently learning on repeating the basics of JavaScript.
   <!-- - 👯 I’m looking to collaborate on ... -->
   <!-- - 😄 Pronouns: ... -->
