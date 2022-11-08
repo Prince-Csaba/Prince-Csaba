@@ -42,9 +42,10 @@ Visual Studio Code, HTML, CSS, SCSS, JavaScript, ReactJs, NodeJs, MongoDB, GitHu
   <summary>:zap: GitHub Stats</summary>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince-csaba&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince-csaba&theme=obedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince-csaba&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince-csaba&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince-csaba&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince-csaba&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince-csaba&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </details>
 
