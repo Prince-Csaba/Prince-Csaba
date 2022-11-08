@@ -47,8 +47,7 @@ Visual Studio Code, HTML, CSS, SCSS, JavaScript, ReactJs, NodeJs, MongoDB, GitHu
 
 <details>
   <summary>:zap: Top Languages</summary>
-
-[![Top Langs](https://https://github-readme-stats.vercel.app/api/top-langs/?username=prince-csaba)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince-csaba&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince-csaba&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  
 </details>
