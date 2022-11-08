@@ -16,6 +16,7 @@
 [<img align="left" alt="LinkedIn" width="22px" style="color: red;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/csaba-bolyai/)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/bolyaic/)
 <br>
+![image](https://user-images.githubusercontent.com/65467550/200480376-616e19b3-c120-4d3e-ae1e-6d1a5ac51845.png)
 
 ### Languages and Tools:
 
